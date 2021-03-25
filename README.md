@@ -12,6 +12,7 @@ It is simple and very useful, not something that doesn't has any reason to be us
 ### Notes:
 - Behold my spaghetti code! Good luck trying to read it.
 - This project will of course be improved by me as much as i can, don't worry about my inefficient code, it is temporary and it will be replaced.
+- I know that emulation and simulation aren't the same thing lol.
 
 ### Usage:
 
