@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 #include <Windows.h>
 #include <algorithm>
@@ -176,6 +174,7 @@ int main()
                 std::cout << "--MISC--" << std::endl;
                 std::cout << "help: displays this msg" <<std::endl;
                 std::cout << "clear: clears the console output." << std::endl;
+                std::cout << "exit: closes the program." << std::endl;
                 std::cout << "--CONFIG--" << std::endl;
                 std::cout << "config_up: binds a key to scroll up." << std::endl;
                 std::cout << "config_down: binds a key to scroll down." << std::endl;
