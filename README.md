@@ -14,6 +14,10 @@ It is simple and very useful, not something that doesn't has any reason to be us
 - This project will of course be improved by me as much as i can, don't worry about my inefficient code, it is temporary and it will be replaced.
 - I know that emulation and simulation aren't the same thing lol.
 
+
+### Currently supporting:
+- Windows
+
 ### Usage:
 
 To open the program's console, hold the key shift + M.
@@ -31,6 +35,7 @@ To bind a letter to scroll DOWN:
 2. Insert config_down __WHILE THE CONSOLE IS OPEN__.
 3. Insert the key you want to bind (INPUT MUST BE 1 CHARACTER, NOT LESS OR MORE) and hit enter.
 4. If the key was binded correctly, it will display: ``Binded ``THE_KEY_YOU_BINDED`` to scroll DOWN!``, where THE_KEY_YOU_BINDED is the key you binded.
+
 
 To change the cooldown that activates when a key is pressed **(IT IS RECOMMENDED TO BE MORE THAN 100MS)**:
 1. Open the program's console if you dont have it open (SHIFT + M), note that, when it is open it will display a input prefix (``>>``).
